@@ -1,0 +1,13 @@
+D:\quantico06\ISTA421\Exercises\Exercise 11\obj\Debug\netcoreapp3.1\Exercise 11.csprojAssemblyReference.cache
+D:\quantico06\ISTA421\Exercises\Exercise 11\obj\Debug\netcoreapp3.1\Exercise 11.AssemblyInfoInputs.cache
+D:\quantico06\ISTA421\Exercises\Exercise 11\obj\Debug\netcoreapp3.1\Exercise 11.AssemblyInfo.cs
+D:\quantico06\ISTA421\Exercises\Exercise 11\obj\Debug\netcoreapp3.1\Exercise 11.csproj.CoreCompileInputs.cache
+D:\quantico06\ISTA421\Exercises\Exercise 11\bin\Debug\netcoreapp3.1\Exercise 11.exe
+D:\quantico06\ISTA421\Exercises\Exercise 11\bin\Debug\netcoreapp3.1\Exercise 11.deps.json
+D:\quantico06\ISTA421\Exercises\Exercise 11\bin\Debug\netcoreapp3.1\Exercise 11.runtimeconfig.json
+D:\quantico06\ISTA421\Exercises\Exercise 11\bin\Debug\netcoreapp3.1\Exercise 11.runtimeconfig.dev.json
+D:\quantico06\ISTA421\Exercises\Exercise 11\bin\Debug\netcoreapp3.1\Exercise 11.dll
+D:\quantico06\ISTA421\Exercises\Exercise 11\bin\Debug\netcoreapp3.1\Exercise 11.pdb
+D:\quantico06\ISTA421\Exercises\Exercise 11\obj\Debug\netcoreapp3.1\Exercise 11.dll
+D:\quantico06\ISTA421\Exercises\Exercise 11\obj\Debug\netcoreapp3.1\Exercise 11.pdb
+D:\quantico06\ISTA421\Exercises\Exercise 11\obj\Debug\netcoreapp3.1\Exercise 11.genruntimeconfig.cache

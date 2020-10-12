@@ -1,0 +1,4 @@
+D:\quantico06\ISTA421\Exercises\Exercise09\obj\Debug\netcoreapp3.1\Exercise09.csprojAssemblyReference.cache
+D:\quantico06\ISTA421\Exercises\Exercise09\obj\Debug\netcoreapp3.1\Exercise09.AssemblyInfoInputs.cache
+D:\quantico06\ISTA421\Exercises\Exercise09\obj\Debug\netcoreapp3.1\Exercise09.AssemblyInfo.cs
+D:\quantico06\ISTA421\Exercises\Exercise09\obj\Debug\netcoreapp3.1\Exercise09.csproj.CoreCompileInputs.cache
